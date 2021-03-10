@@ -28,3 +28,7 @@
     - 동기적인 반응을 하기 위해서는 useEffect를 사용하여야 한다.
     - 반복문이 들어가는 컴포넌트는 React.memo를 쓰면 좋다.
     - useMemo를 사용하여 컴포넌트 자체를 기억 시킬수도 있다. <Tr> 부분
+
+- 지뢰 찾기
+    - createContext, useContext 사용
+    - 
